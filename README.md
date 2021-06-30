@@ -1,0 +1,2 @@
+# SoccerActionVC
+This project proposes a deep learning approach for the classification of different soccer actions like Goal, Yellow Card and Soccer Juggling from an input video. The approach used included a hybrid model which consists of a Convolutional neural network(CNN) and Bidirectional Long short-term memory(bi-LSTM) which is a Recurrent neural network model. The CNN+bi-LSTM architecture entails the usage of CNN layers for feature extraction on input data combined with LSTMs to assist sequence prediction
